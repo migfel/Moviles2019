@@ -1,2 +1,2 @@
-# Moviles2019
-Curso 2019
+# Moviles 2019
+Programacion de dispositivos moviles 2019
